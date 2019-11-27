@@ -1,6 +1,6 @@
 
 
-# Homework 3: Hard coding - GROUP: 11
+# Homework 4: Hard coding - GROUP: 11
 ## Authors
 * **Eleftheria Tetoula Tsonga**
 * **Alessandro Taglieri**
