@@ -20,6 +20,14 @@ The homework is divided into four parts:
 ### Repository Structure
 
 Our Repository contains the following files:
+* **main.ipynb**
+
+* **clustering_lib.py**
+
+* **hashing_lib.py**
+
+* **sorting_lib.py**
+
 
 * **README.md**
 Containing the explaination of the content of the repository </br>
