@@ -6,7 +6,7 @@
 * **Alessandro Taglieri**
 * **Hamed Asadollahi**
 
-## Objective
+## Goal of the homework
 Write important algorithms and function from scratch.
 
 ### Homework structure
@@ -20,16 +20,17 @@ The homework is divided into four parts:
 ### Repository Structure
 
 Our Repository contains the following files:
-* **main.ipynb**
-
-* **clustering_lib.py**
-
-* **hashing_lib.py**
-
-* **sorting_lib.py**
-
-
-* **README.md**
-Containing the explaination of the content of the repository </br>
+* **main.ipynb:**
+It contains all 3 exercises and all choises that we made to solve every exercise. It contains also thereotical question (exercise 4). We did a explanation about this last exercise with an example.
+* **hashing_lib.py:**
+It contains .py file about frist exercise
+* **sorting_lib.py:**
+It contains .py file about second exercise
+* **clustering_lib.py:**
+It contains .py file about third exercise
+* **png:**
+It is a directory that contains two images that we used in main.ipynb
+* **README.md:**
+Containing the explanation of the content of the repository </br>
 
 
